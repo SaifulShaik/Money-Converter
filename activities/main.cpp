@@ -57,7 +57,7 @@ int main()
     }
     cout << "\n===================================" << endl;
     cout << "Total Recipts: " << recipts << endl;
-    cout << "Goodbye..." << endl;
+    cout << "Thanks for your business!" << endl;
     
     
 }
